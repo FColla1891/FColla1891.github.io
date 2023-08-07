@@ -1,0 +1,28 @@
+body {
+    background-color:antiquewhite;
+}
+
+.mifoto {
+width: 150px;
+height: 200px;
+}
+
+.nombre {
+    color:cornflowerblue;
+}
+
+#habilidades {
+    color: rgb(213, 99, 99);
+}
+#experiencia {
+    color: rgb(182, 123, 237);
+}
+#educacion {
+    color: burlywood;
+}
+#perfiles {
+    color: cadetblue;
+}
+.letra {
+    font-family: sans-serif;
+}
